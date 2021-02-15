@@ -1,0 +1,14 @@
+{
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
+    "keywords": ["V2Ray"],
+    "env": {
+        "UUID": {
+            "description": "V2Ray UUID",
+            "value": "e5ed1aa2-6258-4e1f-9303-6d8f52e05469"
+        }
+    },
+    "website": "https://fangaso.github.io",
+    "repository": "https://github.com/fangaso/heroku-v2ray",
+    "stack": "container"
+}
